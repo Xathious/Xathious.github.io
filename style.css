@@ -14,7 +14,7 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: black;
+  background: #181818;
   color: white;
 }
 
@@ -41,7 +41,7 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: black;
+   background-color: #181818;
    padding: 20px;
    margin-top: 20px;
    color: white;
@@ -58,7 +58,7 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: black;
+  background: #181818;
   margin-top: 20px;
   color: white;
 }
