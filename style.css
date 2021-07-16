@@ -6,7 +6,7 @@
 body {
   font-family: Arial;
   padding: 20px;
-  background: #f1f1f1;
+  background: #505050;
 }
 
 /* Header/Blog Title */
@@ -14,7 +14,8 @@ body {
   padding: 30px;
   font-size: 40px;
   text-align: center;
-  background: white;
+  background: black;
+  color: white;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -31,8 +32,8 @@ body {
   padding-left: 20px;
 }
 
-/* Fake image */
-.fakeimg {
+/* image */
+.img {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
@@ -40,9 +41,10 @@ body {
 
 /* Add a card effect for articles */
 .card {
-   background-color: white;
+   background-color: black;
    padding: 20px;
    margin-top: 20px;
+   color: white;
 }
 
 /* Clear floats after the columns */
@@ -56,8 +58,9 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: black;
   margin-top: 20px;
+  color: white;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
